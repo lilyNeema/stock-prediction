@@ -16,9 +16,6 @@ The goal of this project is to build a predictive model for stock prices using m
 - tensorflow
 - yfinance
 
-Install the required dependencies using:
-```bash
-pip install numpy pandas scikit-learn matplotlib tensorflow yfinance
+``bash
 
-#Check out my notebook here
 https://colab.research.google.com/drive/131X2lTZpm6aj3zVzelIKJE5Ukz1etx7j?usp=sharing
